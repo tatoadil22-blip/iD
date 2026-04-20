@@ -1,10 +1,3 @@
-## iD Editor Privacy Policy
-
-iD Editor is an open source OpenStreetMap editor. You are not required to use iD in order to use or edit OpenStreetMap, and the OpenStreetMap Foundation does not operate iD. You can learn more about OpenStreetMap and the OpenStreetMap Foundation at [https://www.openstreetmap.org/about](https://www.openstreetmap.org/about) and [https://wiki.osmfoundation.org/wiki/Main_Page](https://wiki.osmfoundation.org/wiki/Main_Page). You can learn more about the iD Editor project and its maintainers at [https://github.com/openstreetmap/iD](https://github.com/openstreetmap/iD).
-
-### Source code and website ([http://ideditor.com/](http://ideditor.com/))
-
-If you choose to interact with the project GitHub page or website hosted by GitHub, you do so in accordance with [GitHub’s Privacy Policy](https://help.github.com/en/articles/github-privacy-statement). If you choose to interact with the pre-release version of iD at [http://preview.ideditor.com/release](http://preview.ideditor.com/release) or [http://preview.ideditor.com/master](http://preview.ideditor.com/master), that use is governed by [AWS’s privacy policy](https://aws.amazon.com/privacy/). If you choose any other communications medium to contact the maintainers of iD, that use is governed by the policies of those respective mediums. See [https://github.com/openstreetmap/iD](https://github.com/openstreetmap/iD) for more information. iD may use any feedback you provide.
 
 ### Cookies
 
